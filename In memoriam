@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <link rel="stylesheet"
+        href="Projectmystyle1.css">
+    </header>
+        <body>
+            <h1>IN MEMORIAM DANIEL PAUL VOLKMAN</h1>
+            <p>1 JULY 1985 - 17 NOVEMBER 2012
+            <p>BURIAL: Greenlawn Memorial Gardens
+            Murphy, Cherokee County, North Carolina, USA 
+        <p> <iframe width="560" height="315" src="https://www.youtube.com/embed/bwA5HY9HA58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+            
+    Designed by: Sarah
+        <div class="padding-x-md padding-y-xl flex flex-center">
+            <div class="text-center">
+              <div class="margin-bottom-xs">
+                <button class="reset btn-gradient-1">Button One</button>
+              </div>
+          
+              <div>
+                <button class="reset btn-gradient-2">Button Two</button>
+              </div>
+            </div>
+          </div>
+        </body>
+</html>
